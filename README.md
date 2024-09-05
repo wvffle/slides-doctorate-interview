@@ -5,3 +5,18 @@ wartościami brakującymi, nowych miar zależności zmiennych które będą alte
 zależności probabilistycznych, algorytmów hybrydowych, będących połączeniem podejść
 istniejących, algorytmów które są w stanie uczyć się struktur ze zbiorów zmiennych
 dyskretnych i ciągłych.
+
+slides:
+- 1 slide about myself
+  - waff-query
+  - theses
+  - open source
+  - teaching at BUT
+
+- core/interesting problem:
+  - low amount of data
+  - mising data
+  - combining constraint based search with bayesian search
+
+- 1 slide about future plans
+  - teaching at BUT
