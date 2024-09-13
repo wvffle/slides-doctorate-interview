@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: ./background.jpg
+background: /background.jpg
 title: Learning Bayesian networks and discovering causality from data
 info: |
   ## Slidev Starter Template
@@ -57,7 +57,7 @@ layout: center
 
 ---
 layout: image-right
-image: ./bn.png
+image: /bn.png
 backgroundSize: contain
 ---
 
